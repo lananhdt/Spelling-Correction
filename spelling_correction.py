@@ -1,4 +1,3 @@
-# Basic Spell Check App
 import streamlit as st
 import spacy
 import contextualSpellCheck
@@ -17,8 +16,6 @@ def spell_corrector(sentence):
         'suggestions': doc._.suggestions_spellCheck,
         'words': [token.text for token in doc]
     }
-    # return doc._.performed_spellCheck, doc._.outcome_spellCheck
-    # return (2 index) index 0: T/F có cần sửa lỗi hay không, index 1: Trả về câu đúng
 
 # Streamlit app
 def main():
