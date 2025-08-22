@@ -1,4 +1,4 @@
 streamlit
 spacy
 contextualSpellCheck
-python-3.11.7
+python==3.11.7
