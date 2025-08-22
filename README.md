@@ -2,12 +2,6 @@
 
 A contextual spelling correction system using spaCy embeddings and contextualSpellCheck for real-time English sentence correction.
 
-## 🚀 Live Demo
-
-[![Streamlit App](https://img.shields.io/badge/👁️‍🗨️_Streamlit-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aio2025-check-attendance.streamlit.app/)
-
-> 🎯 **Try the live demo above to test system without any setup!**
-
 ## 🎯 Project Overview
 �
 This project builds a real-time contextual spelling correction system that:
